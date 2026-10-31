@@ -5,6 +5,9 @@
 *Tu espacio, tus libros, tus historias.*
 
 ---
+## 🔗 Enlace del proyecto
+
+- **Aplicación web publicada: https://booknest-digital-lib-f3kx.bolt.host/
 
 ## 📖 Acerca del proyecto
 
@@ -411,11 +414,6 @@ BookNest fue desarrollada mediante el enfoque de **Vibe Coding**, utilizando ins
 El proceso consistió en definir el propósito del proyecto, establecer sus características principales, indicar las restricciones técnicas y describir la identidad visual deseada.
 
 A partir de los prompts, Bolt permitió generar una propuesta de aplicación web basada en las indicaciones proporcionadas.
-
-## 🔗 Enlaces del proyecto
-
-- **Repositorio de GitHub:** [Agregar URL del repositorio]
-- **Aplicación web publicada:**https://booknest-digital-lib-f3kx.bolt.host/
 
 ## 📝 Consideraciones
 
