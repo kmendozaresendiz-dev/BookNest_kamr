@@ -87,7 +87,7 @@ El diseño debe ser pastel, acogedor, minimalista y estar inspirado en Pinterest
 
 ## Segundo prompt utilizado más detallado:
 
-# BOOKNEST – BIBLIOTECA DIGITAL PERSONAL
+## BOOKNEST – BIBLIOTECA DIGITAL PERSONAL
 
 Actúa como un desarrollador web especializado en React, diseño UI/UX y creación de aplicaciones modernas.
 
