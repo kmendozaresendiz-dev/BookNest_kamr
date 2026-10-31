@@ -7,7 +7,7 @@
 ---
 ## 🔗 Enlace del proyecto
 
-- **Aplicación web publicada: https://booknest-digital-lib-f3kx.bolt.host/
+- Aplicación web publicada: https://booknest-digital-lib-f3kx.bolt.host/
 
 ## 📖 Acerca del proyecto
 
