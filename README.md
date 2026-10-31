@@ -248,7 +248,7 @@ Incluir las siguientes opciones:
 
 Antes de borrar la información, mostrar una ventana de confirmación.
 
-# 4. IDENTIDAD VISUAL
+## 4. IDENTIDAD VISUAL
 
 La apariencia de BookNest debe ser delicada, acogedora, moderna y minimalista.
 
