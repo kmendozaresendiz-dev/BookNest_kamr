@@ -61,62 +61,6 @@ BookNest está organizada en cinco secciones que permiten administrar diferentes
 | **GitHub** | Plataforma para alojar y compartir el código fuente del proyecto. |
 | **Canva** | Elaboración del maquetado y propuesta visual de la aplicación. |
 
-## 🎨 Identidad visual
-
-BookNest utiliza una identidad visual inspirada en ambientes de lectura acogedores y diseños editoriales modernos.
-
-### Paleta de colores
-
-| Color | Código HEX |
-|---|---|
-| Rosa pastel | `#F6E9E9` |
-| Verde salvia | `#E5EBDD` |
-| Lavanda | `#E8EAF5` |
-| Crema | `#F5EBD9` |
-| Gris café | `#625B61` |
-
-### Tipografías
-- **Playfair Display:** encabezados y títulos.
-- **DM Sans:** textos y elementos de navegación.
-
-### Elementos de diseño
-- Tarjetas con esquinas redondeadas.
-- Sombras suaves y fondos claros.
-- Iconos sencillos y consistentes.
-- Portadas de libros visibles.
-- Botones con colores pastel.
-- Espacios amplios entre elementos.
-- Jerarquía visual clara.
-- Ilustraciones decorativas discretas relacionadas con la lectura.
-
-## 📱 Diseño adaptable
-
-La aplicación está diseñada para utilizarse en diferentes dispositivos:
-
-| Dispositivo | Adaptación |
-|---|---|
-| Computadora | Menú lateral y distribución amplia de tarjetas. |
-| Tableta | Distribución adaptable según el espacio disponible. |
-| Celular | Menú inferior y contenido organizado para pantallas pequeñas. |
-
-Se busca mantener la misma identidad visual y facilitar la navegación independientemente del dispositivo utilizado.
-
-## 💾 Almacenamiento de información
-
-BookNest utiliza **LocalStorage** para guardar la información directamente en el navegador del usuario.
-
-Los datos almacenados incluyen:
-
-- Nombre e información del perfil.
-- Libros registrados y sus portadas.
-- Estados y fechas de lectura.
-- Calificaciones y favoritos.
-- Meta anual de lectura.
-- Entradas del diario.
-
-La información permanece guardada al cerrar y volver a abrir la aplicación desde el mismo navegador, siempre que no se eliminen los datos almacenados.
-
-**Consideración:** los datos no se sincronizan automáticamente entre diferentes dispositivos ni navegadores.
 
 ## 🤖 Prompts utilizados
 
