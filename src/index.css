@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-cream-50 font-sans text-cocoa-600 leading-normal antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display font-semibold text-cocoa-800 leading-[1.2];
+  }
+
+  ::selection {
+    @apply bg-rose-200 text-cocoa-800;
+  }
+}
+
+@layer components {
+  .field-input {
+    @apply w-full rounded-2xl border border-cocoa-200 bg-white px-4 py-3 text-cocoa-800 placeholder:text-cocoa-400 transition focus:border-cocoa-400 focus:outline-none focus:ring-4 focus:ring-lavender-200;
+  }
+
+  .card {
+    @apply rounded-3xl border border-white bg-white/90 shadow-soft;
+  }
+}
